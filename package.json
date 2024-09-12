@@ -33,5 +33,8 @@
   },
   "prisma": {
     "schema": "server/prisma/schema.prisma"
+  },
+  "dependencies": {
+    "@jridgewell/sourcemap-codec": "^1.5.0"
   }
 }

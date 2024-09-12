@@ -1,0 +1,10 @@
+{
+    "successfulLogin": {
+        "email": "test@test.com",
+        "password": "test123"
+    },
+    "failedLogin": {
+        "email": "test@test.com",
+        "password": "test"
+    }
+}
