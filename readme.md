@@ -1,3 +1,26 @@
+# Cypress Automation Testing with Cypress Heroes
+
+Cypress Heroes is a project that simulates a website for hiring users for projects.
+
+Using Excel and the Cypress tool, I developed test cases and test automation.
+
+## Test cases
+To access the detailed test cases, click on the link: 
+**[Test cases and Bug report](https://1drv.ms/x/c/c14e25d05b637ac4/EUj2CtvD6iNDm422I1InZ9IB_higzAfX8jWbEIjfw_9WEg?e=LaETT9)** 
+
+## Automated Testing
+To access automated tests, go to **client/cypress/e2e/testsFernandaTaborda.spec.cy.js**
+
+---
+
+
+
+
+
+
+
+
+
 # Cypress Heroes Demo Application
 
 This is a demo application that shows how to use Cypress to run end-to-end,
